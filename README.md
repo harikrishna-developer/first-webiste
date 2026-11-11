@@ -167,3 +167,7 @@ git push
 **Project Status:** User Management CRUD APIs implemented and tested with PostgreSQL.
 
 **Purpose:** Hands-on learning and implementation of backend development concepts using FastAPI and PostgreSQL.
+
+## Upcoming Features
+
+- Product Management API
