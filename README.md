@@ -161,7 +161,7 @@ git add .
 git commit -m "Your commit message"
 git push
 ```
-
+Learning Git fetch and pull with my FastAPI project.
 ---
 
 **Project Status:** User Management CRUD APIs implemented and tested with PostgreSQL.
